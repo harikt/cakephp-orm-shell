@@ -1,0 +1,17 @@
+{
+    "name":"hkt/cakephp-orm-shell",
+    "description": "Cakephp ORM Shell provides a tool to manage your application’s metadata cache",
+    "keywords": ["orm", "cakephp", "shell", "cache"],
+    "homepage": "http://harikt.com",
+    "license": "MIT",
+    "require": {
+        "symfony/console": "^2.8",
+        "cakephp/orm": "~3.0",
+        "cakephp/cache": "~3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hkt\\": "src/"
+        }
+    }
+}
