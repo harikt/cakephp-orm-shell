@@ -12,7 +12,7 @@ use Hkt\ORM\SchemaTrait;
 
 class ORMCacheBuild extends Command
 {
-	use SchemaTrait;
+    use SchemaTrait;
 
     protected function configure()
     {

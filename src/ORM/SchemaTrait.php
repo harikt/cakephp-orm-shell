@@ -8,7 +8,7 @@ use Cake\Datasource\ConnectionManager;
 
 trait SchemaTrait
 {
-	/**
+    /**
      * Helper method to get the schema collection.
      *
      * @return false|\Cake\Database\Schema\Collection

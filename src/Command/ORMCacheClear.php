@@ -14,7 +14,7 @@ use Hkt\ORM\SchemaTrait;
 
 class ORMCacheClear extends Command
 {
-	use SchemaTrait;
+    use SchemaTrait;
 
     protected function configure()
     {
