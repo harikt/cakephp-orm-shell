@@ -5,7 +5,7 @@
     "homepage": "http://harikt.com",
     "license": "MIT",
     "require": {
-        "symfony/console": "^2.8",
+        "symfony/console": "~3.0",
         "cakephp/orm": "~3.0",
         "cakephp/cache": "~3.0"
     },
