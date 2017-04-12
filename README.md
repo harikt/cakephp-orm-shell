@@ -1,5 +1,7 @@
 # Cakephp ORM Shell
 
+> Implemented in [cakephp/migrations](https://github.com/cakephp/migrations/pull/312) . So this package is no longer needed.
+
 Currently this is an implementation of [ORM Cache Shell](http://book.cakephp.org/3.0/en/console-and-shells/orm-cache.html)
 as a standalone package so can it be used with [cakephp/orm](https://packagist.org/packages/cakephp/orm).
 
